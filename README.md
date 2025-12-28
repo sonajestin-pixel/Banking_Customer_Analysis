@@ -93,7 +93,7 @@ These views help simplify repeated analysis and improve query reusability.
 ---
 
 ## Author
- 
+ **Name:**Sona Jestin **LinkedIn:**www.linkedin.com/in/sonajestin
  
 
 ---
